@@ -1,0 +1,40 @@
+{
+  "title" : "Naleśniki",
+  "ingredients" : [
+    {
+      "amount" : "2",
+      "unit" : "szt",
+      "name" : "jajek"
+    },
+    {
+      "amount" : "3",
+      "unit" : "szkl",
+      "name" : "mąki"
+    },
+    {
+      "amount" : "3",
+      "unit" : "szkl",
+      "name" : "mleka"
+    },
+    {
+      "amount" : "1",
+      "unit" : "łyżeczka",
+      "name" : "soli"
+    },
+    {
+      "amount" : "3",
+      "unit" : "łyżki",
+      "name" : "cukru"
+    },
+    {
+      "amount" : "3",
+      "unit" : "łyżki",
+      "name" : "oleju"
+    }
+  ],
+  "directions" : "Zmiksować wszystkie składniki. Smażyć na patelni w bardzo gorącym oleju, aż obie strony się zarumienią.",
+  "notes" : "",
+  "course" : "Main dish",
+  "meal" : "Lunch",
+  "locale" : "pl-PL"
+}

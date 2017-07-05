@@ -1,0 +1,60 @@
+{
+  "title" : "Paluszki z kurczaka w sosie miodowo-musztardowym",
+  "ingredients" : [
+    {
+      "amount" : "4",
+      "unit" : "szt",
+      "name" : "piersi z kurczaka"
+    },
+    {
+      "amount" : "3⁄4",
+      "unit" : "szkl",
+      "name" : "mąki"
+    },
+    {
+      "amount" : "2",
+      "unit" : "szt",
+      "name" : "roztrzepanych jajek"
+    },
+    {
+      "amount" : "3⁄4",
+      "unit" : "szkl",
+      "name" : "panko lub bułki tartej"
+    },
+    {
+      "amount" : "",
+      "unit" : "",
+      "name" : "olej"
+    },
+    {
+      "amount" : "4",
+      "unit" : "łyżki",
+      "name" : "miodu"
+    },
+    {
+      "amount" : "2 1⁄2",
+      "unit" : "łyżki",
+      "name" : "musztardy Dijon"
+    },
+    {
+      "amount" : "1",
+      "unit" : "łyżka",
+      "name" : "majonezu"
+    },
+    {
+      "amount" : "",
+      "unit" : "",
+      "name" : "sól"
+    },
+    {
+      "amount" : "",
+      "unit" : "",
+      "name" : "pieprz"
+    }
+  ],
+  "directions" : "Piersi pokrój na podłużne kawałki o szerokości 1 1⁄2 cm. Posyp solą i pieprzem. Panieruj obtaczając kolejno w mące, roztrzepanym jajku i panko/bułce tartej. Smaż na średnio rozgrzanym oleju (180°C), na złoto, obracając, gdy jedna strona zarumieni się. Po smażeniu odsączaj olej na ręczniku papierowym.\n\nSos zrób mieszając musztardę z miodem i majonezem. Dopraw solą.",
+  "notes" : "Kawałki kurczaka możesz najpierw wymieszać z jogurtem i zostawić do zamarynowania na noc w lodówce. Będą jeszcze bardziej soczyste. Panieruj po dokładnym obtarciu z jogurtu i osuszeniu.",
+  "course" : "Main dish",
+  "meal" : "Brunch",
+  "locale" : "pl-PL"
+}

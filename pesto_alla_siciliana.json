@@ -1,0 +1,50 @@
+{
+  "title" : "Pesto alla siciliana",
+  "ingredients" : [
+    {
+      "amount" : "1",
+      "unit" : "krzaczek",
+      "name" : "świeżej bazylii"
+    },
+    {
+      "amount" : "1⁄5",
+      "unit" : "szkl",
+      "name" : "oliwy z oliwek"
+    },
+    {
+      "amount" : "50",
+      "unit" : "g",
+      "name" : "orzeszków piniowych"
+    },
+    {
+      "amount" : "2",
+      "unit" : "łyżki",
+      "name" : "suszonego oregano"
+    },
+    {
+      "amount" : "2",
+      "unit" : "łyżki",
+      "name" : "suszonej bazylii"
+    },
+    {
+      "amount" : "1",
+      "unit" : "słoiczek",
+      "name" : "pomidorów suszonych"
+    },
+    {
+      "amount" : "1",
+      "unit" : "ząbek",
+      "name" : "czosnku"
+    },
+    {
+      "amount" : "50",
+      "unit" : "g",
+      "name" : "tartego parmezanu"
+    }
+  ],
+  "directions" : "Bazylię zmiksować lub utrzeć z oliwą z oliwek. Zmiksować orzeszki piniowe i pomidory szuszone. Dodać posiekany czosnek i przyprawy. Domieszać sera, lub posypać przy podaniu.",
+  "notes" : "Podczas miksowania do bazylii można dodać obrobinę lodu. Spowoduje to, że nie będzie się nagrzewać tak szybko od tarcia, i nie będzie miała gorzkiego posmaku.",
+  "course" : "Main dish",
+  "meal" : "Lunch",
+  "locale" : "pl-PL"
+}

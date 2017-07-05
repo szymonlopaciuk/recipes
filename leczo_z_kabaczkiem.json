@@ -1,0 +1,100 @@
+{
+  "title" : "Leczo z kabaczkiem",
+  "ingredients" : [
+    {
+      "amount" : "1",
+      "unit" : "",
+      "name" : "kabaczek"
+    },
+    {
+      "amount" : "7",
+      "unit" : "",
+      "name" : "pieczarek"
+    },
+    {
+      "amount" : "1",
+      "unit" : "",
+      "name" : "cebula"
+    },
+    {
+      "amount" : "1",
+      "unit" : "",
+      "name" : "papryka czerwona"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "",
+      "name" : "papryki żółtej"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "",
+      "name" : "innej papryki"
+    },
+    {
+      "amount" : "2",
+      "unit" : "",
+      "name" : "pomidory"
+    },
+    {
+      "amount" : "1",
+      "unit" : "ząbek",
+      "name" : "czosnku"
+    },
+    {
+      "amount" : "180",
+      "unit" : "g",
+      "name" : "cienkiej kiełbasy"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "łyżeczki",
+      "name" : "soli"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "łyżeczki",
+      "name" : "pieprzu mielonego"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "łyżeczki",
+      "name" : "oregano"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "łyżeczki",
+      "name" : "Vegety"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "łyżeczki",
+      "name" : "cukru"
+    },
+    {
+      "amount" : "2",
+      "unit" : "łyżeczki",
+      "name" : "koncentratu pomidorowego"
+    },
+    {
+      "amount" : "2",
+      "unit" : "",
+      "name" : "liście laurowe"
+    },
+    {
+      "amount" : "3",
+      "unit" : "",
+      "name" : "ziela angielskie"
+    },
+    {
+      "amount" : "",
+      "unit" : "",
+      "name" : "masło do smażenia"
+    }
+  ],
+  "directions" : "1. Kabaczka obieramy ze skóry, wycinamy łyżką miąższ (którego się pozbywamy) i kroimy w kostkę.\n2. Cebulę siekamy. Papryki oczyszczamy z nasion i kroimy w kostkę.\n3. Z pomidorów usuwamy skórkę (zalewamy pomidory wrzątkiem, a po chwili skórka z łatwością zejdzie) oraz zdrewniałą część i kroimy w kostkę.\n4. Ząbek czosnku siekamy. Kiełbasę kroimy w półtalarki, podobnie robimy z pieczarkami.\n6. Do przygotowania lecza przygotowujemy średni garnek oraz patelnię. \n7. Na patelni rozgrzewamy niewielką ilość masła i podsmażamy kabaczka. \n8. Przekładamy do garnka. Patelnię otłuszczamy i podsmażamy pieczarki, doprawiając szczyptą pieprzu oraz vegety. \n9. Pod koniec smażenia dodajemy posiekaną cebulę i jeszcze chwilę podsmażamy po czym przekładamy do garnka, do którego dodajemy również ziele angielskie i liście laurowe.\n10. Patelnię ponownie otłuszczamy i podsmażamy kiełbasę, a kiedy ładnie się zrumieni przekładamy do garnka.\n11. Ponownie otłuszczamy patelnię i podsmażamy paprykę - przekładamy do garnka.\n12. Na końcu podsmażamy pokrojone pomidory z posiekanym ząbkiem czosnku oraz ze szczyptą soli oraz oregano - przekładamy do garnka.\n13. Całość w garnku wstawiamy na mały palnik i dokładnie mieszamy.\n14. Podduszamy jeszcze przez około 15 minut na małym ogniu, doprawiając koncentratem pomidorowym, szczyptą cukru, 1⁄2 łyżeczki soli, 1⁄2 płaskiej łyżeczki pieprzu mielonego, 1⁄2 płaskiej łyżeczki oregano i opcjonalnie ostrą mieloną papryką.",
+  "notes" : "",
+  "course" : "Main dish",
+  "meal" : "Lunch",
+  "locale" : "pl-PL"
+}

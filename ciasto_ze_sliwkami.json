@@ -1,0 +1,45 @@
+{
+  "title" : "Ciasto ze śliwkami",
+  "ingredients" : [
+    {
+      "amount" : "3",
+      "unit" : "szkl",
+      "name" : "mąki"
+    },
+    {
+      "amount" : "3",
+      "unit" : "łyżeczki",
+      "name" : "proszku do pieczenia"
+    },
+    {
+      "amount" : "250",
+      "unit" : "g",
+      "name" : "masła"
+    },
+    {
+      "amount" : "1",
+      "unit" : "szkl",
+      "name" : "cukru"
+    },
+    {
+      "amount" : "5",
+      "unit" : "szt",
+      "name" : "żółtek"
+    },
+    {
+      "amount" : "1 1⁄2",
+      "unit" : "kg",
+      "name" : "śliwek"
+    },
+    {
+      "amount" : "1",
+      "unit" : "łyżka",
+      "name" : "mąki ziemniaczanej"
+    }
+  ],
+  "directions" : "1. Ugnieść ciasto i podzielić na dwie części.\n2. Do jedniej, mniejszej, dodać 3 łyżki mąki i 5 łyżeczek cukru i zamrozić.\n3. Drugą schłodzić w lodówce.\n4. Do śliwek dodać łyżkę mąki ziemniaczanej, 5 łyżek cukru i wymieszać.\n5. Ciasto z lodówki wyjąć i włożyć do blachy, ponakłuwać widelcem, piec 10 minut.\n6. Potem rozłożyć śliwki, zetrzeć ciasto z zamrażarki, a następnie piec 30–40 minut.",
+  "notes" : "Piec w 180°C.",
+  "course" : "Dessert",
+  "meal" : "Not specified",
+  "locale" : "pl-PL"
+}

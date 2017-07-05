@@ -1,0 +1,50 @@
+{
+  "title" : "Heinz Copycat Ketchup",
+  "ingredients" : [
+    {
+      "amount" : "6",
+      "unit" : "oz",
+      "name" : "tomato paste (can)"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "cup",
+      "name" : "light corn syrup"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "cup",
+      "name" : "white vinegar"
+    },
+    {
+      "amount" : "1⁄4",
+      "unit" : "cup",
+      "name" : "water"
+    },
+    {
+      "amount" : "1",
+      "unit" : "tbsp",
+      "name" : "sugar"
+    },
+    {
+      "amount" : "1",
+      "unit" : "tsp",
+      "name" : "salt"
+    },
+    {
+      "amount" : "1⁄4",
+      "unit" : "tsp",
+      "name" : "onion powder"
+    },
+    {
+      "amount" : "1⁄8",
+      "unit" : "tsp",
+      "name" : "garlic powder"
+    }
+  ],
+  "directions" : "1. Combine all ingredients in a medium saucepan over medium heat. Whisk until smooth.\n2. When mixture comes to boil, reduce heat and simmer for 20 minutes, stiring often.\n3. Remove pan from heat and cover until cool. Chil and store in a covered container.",
+  "notes" : "Yields 1 1⁄2 cups.",
+  "course" : "Side Dish",
+  "meal" : "Not specified",
+  "locale" : "en-US"
+}

@@ -1,0 +1,65 @@
+{
+  "title" : "Brownie – Whatever Floats Your Boat",
+  "ingredients" : [
+    {
+      "amount" : "1⁄2",
+      "unit" : "cup",
+      "name" : "butter"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "cup",
+      "name" : "unsweetened cocoa"
+    },
+    {
+      "amount" : "1",
+      "unit" : "cup",
+      "name" : "sugar"
+    },
+    {
+      "amount" : "2",
+      "unit" : "pcs",
+      "name" : "eggs"
+    },
+    {
+      "amount" : "2",
+      "unit" : "tsp",
+      "name" : "vanilla"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "cup",
+      "name" : "flour"
+    },
+    {
+      "amount" : "1⁄4",
+      "unit" : "tsp",
+      "name" : "salt"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "cup",
+      "name" : "chocolate chips"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "cup",
+      "name" : "sesame"
+    },
+    {
+      "amount" : "1",
+      "unit" : "cup",
+      "name" : "cranberry"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "cup",
+      "name" : "sliced almonds"
+    }
+  ],
+  "directions" : "1. Preheat oven to 350°F – 180°C.\n2. Grease an 8 inch square pan or line with foil.\n3. In a medium bowl combine melted butter and cocoa and stir until cocoa is dissolved.\n4. Add sugar and mix well.\n5. Add eggs one at a time and stir until well combined.\n6. Stir in vanilla, flour and salt until you no longer see any flour (do not overmix).\n7. Fold in \"whatever floats your boat\".\n8. Spread in pan and bake for approx. 25 minutes.\n9. Cool completely before cutting in squares.",
+  "notes" : "Do not overbake – your brownies will come out dry. Adjust time/temperature accordingly for your oven. If you do the knife/toothpick test, it should come out with moist crumbs, not clean. For double recipe, bake in 9×12 pan and add 5 minutes to baking time.",
+  "course" : "Dessert",
+  "meal" : "Dinner",
+  "locale" : "en-US"
+}
