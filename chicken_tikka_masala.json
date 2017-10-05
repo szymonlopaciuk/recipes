@@ -1,0 +1,130 @@
+{
+  "title" : "Chicken Tikka Masala",
+  "ingredients" : [
+    {
+      "amount" : "4",
+      "unit" : "tbsp",
+      "name" : "oil"
+    },
+    {
+      "amount" : "4",
+      "unit" : "",
+      "name" : "onions"
+    },
+    {
+      "amount" : "2",
+      "unit" : "",
+      "name" : "peppers"
+    },
+    {
+      "amount" : "8",
+      "unit" : "",
+      "name" : "chicken breasts"
+    },
+    {
+      "amount" : "800",
+      "unit" : "g",
+      "name" : "chopped tomatoes"
+    },
+    {
+      "amount" : "4",
+      "unit" : "tbsp",
+      "name" : "tomato purée"
+    },
+    {
+      "amount" : "150",
+      "unit" : "ml",
+      "name" : "cream or yoghurt"
+    },
+    {
+      "amount" : "1",
+      "unit" : "tbsp",
+      "name" : "coconut"
+    },
+    {
+      "amount" : "",
+      "unit" : "",
+      "name" : "tikka masala paste (ingredients below)"
+    },
+    {
+      "amount" : "5",
+      "unit" : "garlic",
+      "name" : "cloves"
+    },
+    {
+      "amount" : "1",
+      "unit" : "knob",
+      "name" : "ginger"
+    },
+    {
+      "amount" : "1",
+      "unit" : "",
+      "name" : "chilli"
+    },
+    {
+      "amount" : "2",
+      "unit" : "tsp",
+      "name" : "cumin"
+    },
+    {
+      "amount" : "2",
+      "unit" : "tsp",
+      "name" : "coriander"
+    },
+    {
+      "amount" : "1",
+      "unit" : "tsp",
+      "name" : "paprika"
+    },
+    {
+      "amount" : "4",
+      "unit" : "cardamon",
+      "name" : "pods"
+    },
+    {
+      "amount" : "2",
+      "unit" : "tsp",
+      "name" : "garam masala (ingredients below)"
+    },
+    {
+      "amount" : "2",
+      "unit" : "tsp",
+      "name" : "ginger"
+    },
+    {
+      "amount" : "1",
+      "unit" : "tsp",
+      "name" : "cinnamon"
+    },
+    {
+      "amount" : "2",
+      "unit" : "tsp",
+      "name" : "black pepper"
+    },
+    {
+      "amount" : "3",
+      "unit" : "tsp",
+      "name" : "cumin"
+    },
+    {
+      "amount" : "3",
+      "unit" : "tsp",
+      "name" : "coriander"
+    },
+    {
+      "amount" : "1⁄2",
+      "unit" : "tsp",
+      "name" : "nutmeg"
+    },
+    {
+      "amount" : "1",
+      "unit" : "tsp",
+      "name" : "cloves"
+    }
+  ],
+  "directions" : "1. Heat oil in a large pan and cook onions till soft (~15 mins).\n2. Prepare the paste, add it to the onions together with peppers and cook for 5 mins.\n3. Add chicken, tomatoes, 200 ml of water and the coconut\n4. Simmer with lid on for 15 mins, stirring occasionally.\n5. Remove lid, add crean/yoghurt and heat through.",
+  "notes" : "",
+  "course" : "Main dish",
+  "meal" : "Lunch",
+  "locale" : "en-GB"
+}
